@@ -1,6 +1,6 @@
 # 🛒📊 E-Commerce Sales Analysis
 
-![E-commerce Analysis Project](/image/dashboard_page.png)
+![Dashboard page 1](/Image/dashboard_page.png)
 
 [view interactive dashboard here on the powerbi service](https://bit.ly/E-commerce_project)
 
@@ -34,11 +34,11 @@ The project answers real business questions around revenue performance, product 
 
 - Cleaned and standardized raw transaction data
 
-![E-commerce Analysis Project](/image/power_query_table.png)
+![Dashboard Page 2 ](/image/power_query_table.png)
 
 - Validated metrics product performance sample using pivot tables
 
-![E-commerce Analysis Project](/image/pivot_table.png)
+![Dashboard Page 3](/image/pivot_table.png)
 
 - Prepared analysis-ready tables   
 ### Power BI
