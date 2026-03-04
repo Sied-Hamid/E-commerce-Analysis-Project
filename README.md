@@ -34,11 +34,11 @@ The project answers real business questions around revenue performance, product 
 
 - Cleaned and standardized raw transaction data
 
-![Dashboard Page 2](/image/power_query_table.png)
+![Dashboard Page 2](/Image/power_query_table.png)
 
 - Validated metrics product performance sample using pivot tables
 
-![Dashboard Page 3](/image/pivot_table.png)
+![Dashboard Page 3](/Image/pivot_table.png)
 
 - Prepared analysis-ready tables   
 ### Power BI
