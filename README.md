@@ -1,5 +1,7 @@
 # 🛒📊 E-Commerce Sales Analysis
+
 ![dashboard page](/image/dashboard%20page.png)
+
 [view interactive dashboard here on the powerbi service](https://bit.ly/E-commerce_project)
 
 ### Excel + Power BI | End-to-End Analytics Case Study
@@ -31,9 +33,13 @@ The project answers real business questions around revenue performance, product 
 ### Excel
 
 - Cleaned and standardized raw transaction data
+
 ![dashboard page](/image/power%20query%20cleaned%20table.png)
+
 - Validated metrics product performance sample using pivot tables
+
 ![dashboard page](/image/pivot%20table%20sample.png)
+
 - Prepared analysis-ready tables   
 ### Power BI
 
